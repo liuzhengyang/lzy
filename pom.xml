@@ -15,6 +15,7 @@
         <module>datastructure</module>
         <module>web</module>
         <module>jvm</module>
+        <module>commonutil</module>
     </modules>
 
 
