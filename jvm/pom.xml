@@ -16,8 +16,8 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <configuration>
-                    <source>1.7</source>
-                    <target>1.7</target>
+                    <source>1.8</source>
+                    <target>1.8</target>
                 </configuration>
             </plugin>
         </plugins>
@@ -32,6 +32,11 @@
             <groupId>cglib</groupId>
             <artifactId>cglib</artifactId>
             <version>3.2.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.chrisnewland</groupId>
+            <artifactId>jitwatch</artifactId>
+            <version>1.0.0</version>
         </dependency>
     </dependencies>
 

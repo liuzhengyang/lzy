@@ -16,6 +16,8 @@
         <module>web</module>
         <module>jvm</module>
         <module>commonutil</module>
+        <module>bigdata</module>
+        <module>instrumentation</module>
     </modules>
 
 
